@@ -1,0 +1,24 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name = "s1">
+        <item name="android:background">#333</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">12sp</item>
+    </style>
+
+    <style name="s2">
+        <item name="android:background">#333</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">22sp</item>
+    </style>
+
+    <style name="s3">
+        <item name="android:background">#666</item>
+        <item name="android:textColor">#fff</item>
+        <item name="android:textSize">25sp</item>
+    </style>
+</resources>
